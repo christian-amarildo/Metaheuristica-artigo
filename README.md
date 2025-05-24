@@ -141,7 +141,7 @@ O artigo `main.tex` segue o **template SBC** e contém:
 
 * 📖 [Problema da Mochila](https://en.wikipedia.org/wiki/Knapsack_problem)
 * 📚 [Algoritmos Genéticos](https://pt.wikipedia.org/wiki/Algoritmo_genético)
-* 🎓 Template da SBC: [https://github.com/sbc-org/sbc-template](https://github.com/sbc-org/sbc-template)
+* 🎓 Template da SBC: [https://www.overleaf.com/project/6821d5dc94744fabfe0a7588](https://www.overleaf.com/project/6821d5dc94744fabfe0a7588)
 
 ---
 
