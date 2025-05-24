@@ -15,14 +15,8 @@ Metaheuristica-artigo/
 ├── codigo/
 │   ├── algoritmo_genetico.py   # Código principal com o AG
 │   ├── knapsack-instance.txt   # Arquivo de entrada com os pesos e valores
-│   ├── figs/
-│   │   ├── boxplot_valores.png        # Gráfico de distribuição das soluções
-│   │   ├── evolucao_melhor_fitness.png# Gráfico da evolução média
-│   │   ├── tabela_resultados.tex      # Tabela LaTeX com resultados individuais
-│   │   └── tabela_metricas.tex        # Tabela LaTeX com métricas finais
 │   └── saida_execucoes.txt     # Log completo da execução
-├── main.tex                    # Artigo acadêmico em LaTeX
-└── README.md                   # Este arquivo
+
 ```
 
 ---
